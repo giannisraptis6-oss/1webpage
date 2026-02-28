@@ -23,21 +23,21 @@ body {
   color: #f9faf8;
 }
 #hHeadBar {
-  display: flex;
-  justify-content: flex-start;
-  color: #F9FAF8;
+  /* display: flex; */
+  /* justify-content: flex-start; */
+  color: #f9faf8;
   margin: 0px 60px;
   font-size: 48px;
 }
 #pHeadBar {
-  display: flex;
-  justify-content: flex-start;
+  /* display: flex; */
+  /* justify-content: flex-start; */
   font-size: 18px;
   font-weight: 900;
-  color: #E5E7EB;
+  color: #e5e7eb;
   margin: 0px 60px;
 }
-#btHeadBar{
+#btHeadBar {
   display: flex;
   margin: 0px 60px;
   font-size: 24px;
@@ -45,12 +45,8 @@ body {
   color: white;
   padding: 5px 30px;
   border-radius: 1rem;
-  
-  
 }
-#imgheadbar{
-  display: flex
-  flex-shrink: ;
-  
-
+#imgheadbar {
+  width: 400px;
+  height: 200px;
 }
