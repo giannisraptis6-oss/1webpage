@@ -49,4 +49,15 @@ body {
 #imgheadbar {
   width: 400px;
   height: 200px;
+  margin: 0px 60px;
+}
+.mainText {
+  display: flex;
+  flex-direction: row;
+}
+.mainScript {
+  flex: 1; /* Takes available space */
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
