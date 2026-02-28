@@ -56,3 +56,30 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.secondLeg{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #1F2937;
+}
+.img1SL {
+  width: 100px;
+  height: 100px;
+  border:  solid #315a94; 
+  border-radius: 12px; 
+  object-fit: cover;
+}
+
+.BoxSecondLeg{
+  display: flex;
+ justify-content: center;
+ flex-direction: row;
+ gap: 30px;
+ 
+ 
+}
+#hSecondLeg{
+  display: flex;
+  justify-content: center;
+}
