@@ -1,0 +1,17 @@
+
+
+#headBar{
+    background-color: #315a94;
+    display:flex;
+   
+
+}
+.topHeadBar{
+    display:flex;
+    justify-content:flex-start;
+}
+#topHeadBarLinks{
+    display:flex;
+    justify-content:flex-end
+    
+}
