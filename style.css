@@ -1,17 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+  font-family: 'Roboto', sans-serif;
+  display:flex;
+}
+
 
 
 #headBar{
     background-color: #315a94;
-    display:flex;
+    min-width: 100%;
+   
    
 
 }
 .topHeadBar{
-    display:flex;
-    justify-content:flex-start;
+    
+    align-items:flex-start;
+    color:#F9FAF8;
+
 }
 #topHeadBarLinks{
-    display:flex;
-    justify-content:flex-end
     
+    align-content:flex-end;
+    color:#F9FAF8;
+    
+    
+}
+#hHeadBar{
+    color:#F9FAF8;
+
+}
+#pHeadBar{
+
+    font-size: x-small;
+    font-weight: 900;
+    color:#F9FAF8;
+    
+    
+   
 }
