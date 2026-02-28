@@ -25,19 +25,26 @@ body {
 #hHeadBar {
   display: flex;
   justify-content: flex-start;
-  color: #f9faf8;
+  color: #F9FAF8;
   margin: 0px 60px;
+  font-size: 48px;
 }
 #pHeadBar {
   display: flex;
   justify-content: flex-start;
-  font-size: x-small;
+  font-size: 18px;
   font-weight: 900;
-  color: #f9faf8;
+  color: #E5E7EB;
   margin: 0px 60px;
 }
 #btHeadBar{
   display: flex;
   margin: 0px 60px;
-
+  font-size: 24px;
+  background-color: rgb(112, 161, 216);
+  color: white;
+  padding: 5px 30px;
+  border-radius: 1rem;
+  
+  
 }
