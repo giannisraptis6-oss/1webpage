@@ -6,7 +6,7 @@ body {
 }
 
 #headBar {
-  background-color: #315a94;
+  background-color: #1F2937;
   min-width: 100%;
     
 }
@@ -61,7 +61,7 @@ body {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  background-color: #1F2937;
+  background-color: whitesmoke;
 }
 .img1SL {
   width: 100px;
@@ -83,3 +83,7 @@ body {
   display: flex;
   justify-content: center;
 }
+.thrirdLeg{
+  
+}
+
